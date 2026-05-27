@@ -29,20 +29,4 @@
 - Java GUI Applications
 - Student Record System
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
----
-
-## 👀 Profile Views
-
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
