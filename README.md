@@ -1,24 +1,48 @@
 # Hi there, I'm Ali Mehdi 👋
 
-## About Me
-Software Engineering student at MUET Jamshoro  
-Java & C++ Developer  
-Learning OOP and GUI Development  
-Building projects and improving coding skills 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Engineering+Student;Java+%26+C%2B%2B+Developer;Learning+OOP+and+GUI+Development;Building+Projects+Everyday+🚀)](https://git.io/typing-svg)
 
-## Skills
-- C++
-- Java
-- OOP
-- File Handling
-- GUI Applications
+---
 
-## Currently Learning
-- Data Structures
-- Git & GitHub
-- Advanced Java
+## 👨‍💻 About Me
 
-## Projects
-- Billing System
+🎓 Software Engineering Student at MUET Jamshoro  
+💻 Java & C++ Developer  
+📚 Currently learning OOP, GUI Development, and File Handling  
+🚀 Passionate about building projects and improving coding skills daily  
+
+---
+
+## 🛠 Skills
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 📌 Projects
+
+- Billing System in C++
 - Flight Management System
-- Java GUI Projects
+- Java GUI Applications
+- Student Record System
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
