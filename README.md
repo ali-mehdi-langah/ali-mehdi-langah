@@ -28,5 +28,3 @@
 - Flight Management System
 - Java GUI Applications
 - Student Record System
-
-![](https://komarev.com/ghpvc/?username=ali-mehdi-langah&color=blue)
