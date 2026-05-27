@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ali Mehdi 👋
 
-<!--
-**ali-mehdi-langah/ali-mehdi-langah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Software Engineering student at MUET Jamshoro  
+Java & C++ Developer  
+Learning OOP and GUI Development  
+Building projects and improving coding skills 🚀
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Java
+- OOP
+- File Handling
+- GUI Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures
+- Git & GitHub
+- Advanced Java
+
+## Projects
+- Billing System
+- Flight Management System
+- Java GUI Projects
