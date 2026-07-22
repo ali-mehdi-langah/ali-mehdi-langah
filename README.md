@@ -19,6 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Html](https://img.shields.io/badge/html-green?style=for-the-badge&logo=html)
 
 ---
 
