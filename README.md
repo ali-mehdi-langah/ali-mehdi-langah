@@ -7,8 +7,8 @@
 ## 👨‍💻 About Me
 
 🎓 Software Engineering Student at MUET Jamshoro  
-💻 Java & C++ Developer  
-📚 Currently learning OOP, GUI Development, and File Handling  
+💻 Java Developer  
+📚 Currently learning DSA and GUI Applications 
 🚀 Passionate about building projects and improving coding skills daily  
 
 ---
