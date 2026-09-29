@@ -8,7 +8,7 @@
 
 🎓 Software Engineering Student at MUET Jamshoro  
 💻 Java Developer  
-📚 Currently learning DSA and GUI Applications 
+📚 Currently learning DSA and GUI Applications          
 🚀 Passionate about building projects and improving coding skills daily  
 
 ---
